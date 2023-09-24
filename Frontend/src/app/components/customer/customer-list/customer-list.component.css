@@ -1,0 +1,22 @@
+table{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+  }
+
+th{
+  align-items: center;
+  text-align: center;
+}
+    
+  .main-body {
+    padding-top: 20px;
+    margin: 0 auto;
+    
+  }
+    
+  .action {
+    display: flex;
+    gap: 5px;
+  }
+  
